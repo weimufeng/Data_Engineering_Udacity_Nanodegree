@@ -77,9 +77,9 @@ Helper SQL queries
 Include some basic sanity testing will be performed to esnure that the work does NOT contain any commonly found issues.
 
 ## Other relevant files
-## data
+### data
 Contains all the JSON and LOG data
 
-## etl.ipynb
+### etl.ipynb
 Helper notebook for etl.py
 
